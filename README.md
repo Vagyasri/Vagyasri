@@ -1,4 +1,4 @@
-<img src="Octodex.png" height="700" width="500">
+<img src="Octodex.png">
 
 ```diff
 
