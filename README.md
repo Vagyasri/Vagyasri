@@ -1,4 +1,4 @@
-<img src="Octodex.png" height="600" text-align="center">
+<center> <img src="Octodex.png" height="600"> </center>
 
 
 
