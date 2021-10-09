@@ -1,4 +1,4 @@
-<center> <img src="Octodex.png" height="600"> </center>
+<img src="Octodex.png" height="600" justify-content="center">
 
 
 
