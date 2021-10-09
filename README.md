@@ -1,3 +1,6 @@
+<img src="Octodex.png">
+
+
 
 ```diff
 
@@ -37,4 +40,6 @@
 </ul>
 
 ![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vagyasri&show_icons=true&theme=radical)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vagyasri&langs_count=5&theme=tokyonight)]()
+
 
