@@ -1,4 +1,4 @@
-<img src="Octodex.png">
+<img src="Octodex.png" height="200">
 
 
 
