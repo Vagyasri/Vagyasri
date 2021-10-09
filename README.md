@@ -35,3 +35,6 @@
   <li>Redux</li>
   <li>SQL</li>
 </ul>
+
+![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vagyasri&show_icons=true&theme=radical)
+
