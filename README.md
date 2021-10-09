@@ -1,6 +1,5 @@
-<img src="Octodex.png" height="600" justify-content="center">
-
-
+<img src="Octodex.png" height="600">
+<link rel="stylesheet" href="style.css">
 
 ```diff
 
