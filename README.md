@@ -1,8 +1,5 @@
-<div align='center'>
-<img src="Octodex.png" height="500" width="500">
-</div>
-
-## Hey, I'm Bhagyashree! You can call me Lucky..
+<h1>Hey!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhagyashree! You can call me Lucky.. <img src="Octodex.png" height="200" width="200">
+</h1>
 
 ```diff
 
