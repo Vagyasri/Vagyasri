@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/2459439/screenshots/5327872/gamer_girl.gif">
 <h1>Hey!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bhagyashree! You can call me Lucky.. <img src="Octodex.png" height="100" width="100">
 </h1>
 
