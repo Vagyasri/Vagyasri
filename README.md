@@ -35,6 +35,6 @@
 ![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vagyasri&show_icons=true&theme=radical)
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vagyasri&langs_count=5&theme=tokyonight)
   
-[![Lucky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vagyasri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vagyasri&theme=react-dark)](https://github.com/Vagyasri/github-readme-activity-graph)
 
-![Views](https://komarev.com/ghpvc/?username=Vagyasri)
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVagyasri&count_bg=%2326817D&title_bg=%231F363C&icon=&icon_color=%23E7E7E7&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
