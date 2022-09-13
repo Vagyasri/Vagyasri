@@ -1,5 +1,5 @@
 <img src="https://cdn.dribbble.com/users/2459439/screenshots/5327872/gamer_girl.gif" width="100%">
-<h1>Hey!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height=30px width="3px"> I'm Lucky.. <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="100" width="100">
+<h1>Hey!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height=30px width="10px"> I'm Lucky.. <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="100" width="100">
 </h1>
 
 ```diff
